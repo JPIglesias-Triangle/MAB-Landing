@@ -5,7 +5,7 @@ html, body {
 }
 
 #hero {
-    background-image: url('../images/topography_background_2.svg');
+    /*background-image: url('../images/topography_background_2.svg');*/
     background-color: black;
     background-position: center center;
     width: 100%;
