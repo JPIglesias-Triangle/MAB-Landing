@@ -2,6 +2,7 @@ html, body {
     padding: 0;
     margin: 0;
     font-family: 'Montserrat', sans-serif !important;
+    background-color: black;
 }
 
 #hero {
@@ -32,4 +33,13 @@ html, body {
     .coming-soon {
         font-size: 140%;
     }
+}
+
+.test-link {
+    z-index: 20;
+    color: white;
+    text-decoration: none;
+    opacity: .7;
+    padding-left: 20px;
+    padding-bottom: 20px;
 }
